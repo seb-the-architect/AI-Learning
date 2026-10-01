@@ -7,5 +7,5 @@ In this fashion, the script did my science homework.
 
 Hardcoded are values to get a certain amount of questions incorrect, to maintain legitimacy.
 
-The demo below is when the bot was not 100% accurate (small bugs and hadnt learned the data set completely). The code is perfect now though and the data set is complete.
-Live Demo (skip to like halfway through): https://youtu.be/FgCpmozkUu0
+<img width="609" height="391" alt="image" src="https://github.com/user-attachments/assets/bcc03aac-b5b4-4769-a07d-7a5eb62871b5" />
+
